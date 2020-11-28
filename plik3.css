@@ -8,3 +8,9 @@ html {
   background-color: orange;
   color: white;
 }
+
+.p {
+  padding: 10px;
+  font-size: 20px;
+  border: solid 1px black;
+}
