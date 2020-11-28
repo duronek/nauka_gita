@@ -2,3 +2,9 @@ html {
   margin: 0;
   padding: 0;
 }
+
+.container {
+  margin: 10px;
+  background-color: orange;
+  color: white;
+}
