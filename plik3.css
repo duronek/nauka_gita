@@ -6,3 +6,15 @@ html {
 * {
   box-sizing: border-box;
 }
+
+.container {
+  margin: 10px;
+  background-color: white;
+  color: orange;
+}
+
+.p {
+  padding: 5px;
+  font-size: 10px;
+  border: solid 1px lightblue;
+}
