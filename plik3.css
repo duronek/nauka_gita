@@ -5,12 +5,12 @@ html {
 
 .container {
   margin: 10px;
-  background-color: orange;
-  color: white;
+  background-color: white;
+  color: orange;
 }
 
 .p {
-  padding: 10px;
-  font-size: 20px;
-  border: solid 1px black;
+  padding: 5px;
+  font-size: 10px;
+  border: solid 1px lightblue;
 }
