@@ -1,2 +1,1 @@
-# nauka_gita
-Nauka Git-a
+# Paragon z warzywniaka
